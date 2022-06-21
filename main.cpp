@@ -20,7 +20,7 @@ int main() {
     list.pop_front();
     cout<<endl;
     list.print(list);
-    list.push_front(67);
+    list.push_front(55);
     cout<<endl;
     list.print(list);
     cout<<endl;
